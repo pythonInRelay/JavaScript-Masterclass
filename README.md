@@ -1,4 +1,5 @@
 # JavaScript Masterclass 10/2020
+Course content duration: **55** hours of online lectures.
 
 ### Description
 This repository contains 10 sections of JavaScript related tasks and projects divided into parts relating to their requirements and the technologies used.
@@ -12,8 +13,10 @@ The main focus was on **backend** technologies.
 * CSS
 * JavaScript ES6+/ES7/ES8/ES9
 * OOP
+* DOM
 * AJAX
 * Webpack
+* Forkify
 
 ____________________________________________
 
