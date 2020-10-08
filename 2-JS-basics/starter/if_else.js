@@ -43,3 +43,4 @@ if (johnBMI > markBMI) {
 var isHigher = johnBMI > markBMI;
 console.log(johnBMI, markBMI, "\n", 'Is John\'s BMI higher than Mark\'s?', isHigher
 */
+
