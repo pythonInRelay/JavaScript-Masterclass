@@ -1,8 +1,9 @@
 # JavaScript Masterclass 10/2020
-Course content duration: **55** hours of online lectures.
 
 ### Description
-This repository contains 10 sections of JavaScript related tasks and projects divided into parts relating to their requirements and the technologies used.
+The purpose of this repository is to display multiple projects which prove my competency in JavaScript and how I personally write JavaScript.
+
+This repo contains 10 sections of JavaScript related tasks and projects divided into parts relating to their requirements and the technologies used.
 Here you will find: projects, challenges, quizzes and websites which were part of an online masterclass course.
 
 All coding done in JetBrains *WebStorm 2020.2*
